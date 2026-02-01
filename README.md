@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/da_psl" target="blank"><img src="https://img.shields.io/twitter/follow/da_psl?logo=twitter&style=for-the-badge" alt="da_psl" /></a> </p>
 
-- 🔭 I'm currently working on [**Mosaic Cipher**](https://github.com/DaRealPSL/mosaic-cipher)
+- 🔭 I'm currently working on [**StudiFlow**](https://github.com/DaRealPSL/homework-planner)
 
 - 🌱 I'm currently learning **GoLang**
 
