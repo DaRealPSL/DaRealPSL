@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **pepijnl.snoeren@outlook.com**, **pepijnl.snoeren@icloud.com**, **pepijnl.snoeren0@gmail.com**
 
-- ⚡ Fun fact: **I am only 15 years old and started coding at 12 with JavaScript!**
+- ⚡ Fun fact: **I am only 16 years old and started coding at 12 with JavaScript!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
