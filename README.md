@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/da_psl" target="blank"><img src="https://img.shields.io/twitter/follow/da_psl?logo=twitter&style=for-the-badge" alt="da_psl" /></a> </p>
 
-- 🔭 I'm currently working on [**StudiFlow**](https://github.com/DaRealPSL/homework-planner)
+- 🔭 I'm currently working on [**Zinc**](https://github.com/DaRealPSL/Zincc)
 
-- 🌱 I'm currently learning **GoLang**
+- 🌱 I'm currently learning **C++**
 
 - 👨‍💻 I'm developing **Zinc - a custom programming language**
 
